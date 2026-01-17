@@ -1,6 +1,8 @@
 📝 MyBlog – Django Blog Application
 
-Deployment: https://siddhis.pythonanywhere.com/
+Deployment:
+Check out here:
+https://siddhis.pythonanywhere.com/
 
 MyBlog is a modern, dynamic blogging platform built using Django. It allows users to create, manage, and read blog posts with features such as featured articles, recent posts, author information, and an about section.
 This project demonstrates practical Django concepts and is suitable for portfolio, resume, and interview showcase.
