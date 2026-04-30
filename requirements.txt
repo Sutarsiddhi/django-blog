@@ -1,4 +1,6 @@
 crispy-bootstrap4
+dj-database-url
 Django
 django-crispy-forms
 Pillow
+psycopg2-binary
